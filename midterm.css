@@ -1,0 +1,41 @@
+.body{
+    font-family: 'Nunito', sans-serif;
+}
+
+.bg-orange{
+    background-color: #E9985B;
+}
+
+.navbar-brand{
+    font-size: 36px;
+    font-family: 'Slabo', sans-serif;
+}
+
+
+.bg-secondary{
+    background-color: #c4c4c4;
+}
+
+.bg-success{
+    background-color: #00ff00;
+}
+
+.about{
+    background-color: #c4c4c4;
+}
+
+
+.todo{
+    background-color: #D63C33;
+}
+
+.recommend{
+    background-color: #c4c4c4;
+}
+
+#home{
+    background-image: url("headerphoto.jpg");
+    background-size: cover;
+    width:100vw;
+    height:100vh;
+}
